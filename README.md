@@ -39,7 +39,7 @@ pip install -r requiremetns.txt
 
 # Admins' Commands
 
-1. '/get amount' sends you winners of the contest, `amount` is desired amount of winners.
+1. `/get amount` sends you winners of the contest, `amount` is desired amount of winners.
 2. `/users` sends you amount of users of the bot.
 3. `/partcipants` sends you amount of participants of the contest. Participant is a subscribed user that pressed the button.
 4. `/mass text` makes mass mailing to all users, `text` is any text that will be sent to users. Also you can attach a photo to the message.
